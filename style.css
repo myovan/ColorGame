@@ -1,0 +1,53 @@
+body{
+    background-color: rgb(56, 63, 71);
+    margin: 0;
+    font-family: Helvetica;
+}
+
+.square{
+    width: 30%;
+    background: purple;
+    padding-bottom: 30%;
+    float: left;
+    margin: 1.66%;
+
+    border-radius: 25px;
+
+}
+
+h1{
+    background-color: aqua;
+    text-align: center;
+    margin: 0;
+    font-weight: normal;
+    font-size: 80px;
+    padding: 10px 0;
+}
+
+#container{
+    margin: 0 auto;
+    max-width: 600px;
+}
+
+#RGB_val{
+    color: black;
+    text-align: center;
+    text-transform: capitalize;
+}
+
+#stripe{
+    background-color: white;
+    height: 30px;
+    text-align: center;
+}
+
+#rcorners1 {
+    border-radius: 25px;
+    background: #73AD21;
+    padding: 20px; 
+    width: 200px;
+    height: 150px; 
+  }
+
+
+  
